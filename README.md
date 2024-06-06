@@ -6,7 +6,7 @@ Hi there, I'm **Andrew**, a **Student**.
 
 ### About me:
 
-- 🌍 I come from **VietNam**
+- 🌍 I am from **VietNam**
 - 👨🏽‍💻 Currently, I am a student at Nguyen Cong Tru High School, Ha Tinh; 
 - ❤️ I love programming and I love music.
 
